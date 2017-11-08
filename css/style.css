@@ -1,0 +1,84 @@
+
+.top-group {
+    position: relative;
+
+    overflow: hidden;
+    height: 5%
+}
+
+
+.right {
+    float: right;
+    margin: 15px 15px 0px 0px;
+}
+
+
+.left {
+    overflow: hidden;
+    margin: 15px 0px 0px 15px;
+}
+
+
+div#header, div#section {
+    
+}
+
+.register-group {
+	display:inline-block;
+    vertical-align:middle;
+    top: 50%;
+	width: 270px;
+	height: 300px;
+    
+    text-align: center;
+}
+
+
+#login-form {
+	margin: 15px auto;
+}
+
+
+.btn-primary-outline {
+	background-color: transparent;
+	border-color: #428bca;
+	color: #428bca;
+}
+
+/*
+@media screen and (max-width: 480px) { /* smartphone 
+    h1 {
+        min-width: 320px;
+        font-size: 16px;
+    }
+    div.image_gallery {
+        width: 320px;
+        min-width: 320px;
+    }
+    
+}
+
+@media screen and (max-width: 768px) { /* tablet  
+
+ h1 {
+        font-size: 20px;
+    }
+    div.image_gallery {
+        min-width: 320px;
+    }
+    img {
+        max-width: 48%; /* 2 изображения в ряд 
+        height: auto;
+        padding: 1%; /* небольшие оступы для изображений 
+    }
+
+}
+
+* {
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+*/
